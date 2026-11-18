@@ -24,7 +24,7 @@ repositories:
 
 website: "https://shipwright.io"
 
-artwork: "https://landscape.cncf.io/logos/shipwright.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/shipwright"
 
 adopters:
   path: "https://github.com/shipwright-io/build/blob/main/ADOPTERS.md"
